@@ -21,7 +21,7 @@ Kaggle API
 Jupyter Notebook
 Setup
 Clone the repository:
-git clone https://github.com/your-username/skin-cancer-detection.git
+git clone https://github.com/manasvi1725/skin-cancer-detection.git
 Install dependencies:
 pip install -r requirements.txt
 Run the notebook: Open the Jupyter notebook Skin_Cancer_detection_main.ipynb and execute the cells to train and evaluate the model.
@@ -37,8 +37,5 @@ Results
 The model achieves significant accuracy in identifying different types of skin lesions. For detailed results and analysis, refer to the notebook.
 
 Contribution
-Feel free to contribute to this project by submitting pull requests. Follow the steps below to contribute:
-
-License
-This project is licensed under the MIT License.
+Feel free to contribute to this project by submitting pull requests. 
 
