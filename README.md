@@ -4,7 +4,6 @@ This project uses deep learning to classify images of skin cancer into multiple 
 
 Dataset
 Source: Kaggle Skin Cancer 9 Classes ISIC Dataset
-Size: 786 MB
 Classes: 9 different types of skin cancer lesions
 Project Structure
 The main components of the project include:
