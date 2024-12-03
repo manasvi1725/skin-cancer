@@ -12,24 +12,24 @@ Dataset Preparation: The dataset is downloaded and extracted from Kaggle. It con
 Modeling: A deep learning model is built using popular libraries to classify the images into the appropriate skin cancer category.
 Evaluation: The model's performance is evaluated based on accuracy, precision, recall, and other relevant metrics.
 Installation and Usage
-Requirements
+Requirements:-
 Python 3.x
 TensorFlow
 Keras
 Kaggle API
 Jupyter Notebook
 Setup
-Clone the repository:
+Clone the repository:-
 git clone https://github.com/manasvi1725/skin-cancer.git
-Install dependencies:
+Install dependencies:-
 pip install -r requirements.txt
 Run the notebook: Open the Jupyter notebook Skin_Cancer_detection_main.ipynb and execute the cells to train and evaluate the model.
 
-Dataset Download
+Dataset Download:-
 Ensure you have Kaggle API set up on your machine. The dataset is downloaded via Kaggle API:
 kaggle datasets download -d nodoubttome/skin-cancer9-classesisic
 
-Model Training
+Model Training:-
 The notebook uses a deep learning architecture to classify skin cancer images into one of the nine classes. The model is trained and validated on the dataset, with metrics such as accuracy and loss plotted for performance evaluation.
 
 Results
@@ -37,6 +37,7 @@ The model achieves significant accuracy in identifying different types of skin l
 
 Webstite
 Can explore the website on the link below, has not been deployed yet so have to run flask in the backend.
+https://manasvi1725.github.io/skin-cancer/
 
 Contribution
 Feel free to contribute to this project by submitting pull requests. 
